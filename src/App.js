@@ -8,7 +8,7 @@ import Product from './redux/user/pages/Product'
 
 const App = () => {
 
-  let role = "admin"
+  let role = "user"
 
   if(role==="admin"){
     return(

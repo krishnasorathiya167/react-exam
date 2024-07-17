@@ -1,10 +1,60 @@
 {
   "product": [
     {
-      "id": "463e",
-      "title": "purse",
-      "price": "200",
-      "category": "bag"
+      "id": "c3ed",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-09.jpg",
+      "title": "Matte Attack Sugar Lipstick",
+      "price": "44",
+      "category": "Lispstick"
+    },
+    {
+      "id": "f1ea",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-20-897x1024.jpg",
+      "title": "Yves Saint Laurent Libre",
+      "price": "24",
+      "category": "Cosmetic"
+    },
+    {
+      "id": "9658",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-14-897x1024.jpg",
+      "title": "Rose Massage Oil",
+      "price": "20",
+      "category": "Oil"
+    },
+    {
+      "id": "fc29",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-22-897x1024.jpg",
+      "title": "Laurent Eau de Parfum",
+      "price": "15",
+      "category": "Perfume"
+    },
+    {
+      "id": "9ac3",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-18-897x1024.jpg",
+      "title": "Natural Tea Body Wash",
+      "price": "32",
+      "category": "Body Wash"
+    },
+    {
+      "id": "ae4d",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-06-897x1024.jpg",
+      "title": "Xtreme Wear Nail Polish",
+      "price": "10",
+      "category": "NailPolish"
+    },
+    {
+      "id": "3014",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-13-897x1024.jpg",
+      "title": "Arabica Coffee Scrub Skin",
+      "price": "16",
+      "category": "Scrub"
+    },
+    {
+      "id": "6708",
+      "image": "http://demo.snstheme.com/wp/dbea/wp-content/uploads/2022/05/prod-16-897x1024.jpg",
+      "title": "Gloss Pink With Collagen",
+      "price": "12",
+      "category": "Lisptick"
     }
   ]
 }

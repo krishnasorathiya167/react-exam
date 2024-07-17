@@ -1,10 +1,13 @@
 import { all } from "redux-saga/effects";
-import { handle_get_product_saga } from "./root/productsaga";
+import { handle_delete_product_saga, handle_get_product_saga, handle_post_product_saga, handle_update_product_saga } from "./root/productsaga";
 
 
 function* rootSaga(){
-    yield all([handle_get_product_saga()])
+    yield all([handle_get_product_saga(),
+        handle_post_product_saga(),
+        handle_delete_product_saga(),
+        handle_update_product_saga()
+    ])
 }
-
 
 export default rootSaga;
