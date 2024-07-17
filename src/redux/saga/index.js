@@ -1,0 +1,10 @@
+import { all } from "redux-saga/effects";
+import { handle_get_product_saga } from "./root/productsaga";
+
+
+function* rootSaga(){
+    yield all([handle_get_product_saga()])
+}
+
+
+export default rootSaga;
